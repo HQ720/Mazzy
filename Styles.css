@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+
+#Header {
+    background-color: #0DF32E;
+    height: 300px;
+    width: 1000px;
+}
+#Banner {
+    background-image: url(../my%20sitemap%20website/my%20website%20attchments/banner.gif);
+    height: 150px;
+    width: 1250px;
+	Margin-left: 25px;
+border-radius:10px;
+	margin-top:-10px;
+}
+
+#Container{
+	background-color: #004E74;
+	width: 1300px;
+		height:170px;
+	margin-left:225px;
+	border-radius:10px;
+	
+}
+
+
+
+#nav{
+	margin-top:-150px;
+	text-align: left;
+ background-color:#4AD2FC;
+ height:500px;
+ width:180px;
+ float:left;
+ padding:5px;
+border-radius:10px;
+	
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+height:500px;
+    width: 180px;
+    background-color: #000000;
+border-radius:10px;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 9px 17px;
+    text-decoration: none;
+border-radius:10px;
+	height: 50px;
+	
+}
+
+
+li a:hover {
+    background-color: #4AD2FC;
+    color: black;
+	
+}
+
+#contact {
+	background-color: #4AD2FC;
+	margin-left: 0px;
+	margin-top: -240px;
+	margin-bottom: 20px;
+	height: 250px;
+	width: 190px;
+	Float: left;
+	border-radius: 10px;
+	font-size: 18px;
+}
+
+		#header2 {
+			font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+			font-size: 24px;
+			color: #000000;
+			border-radius: 10px;
+			background-color: #000000;
+			margin: 20px;
+			margin-left: 20px;
+			height: 40px;
+			width: 150px;
+		}
+#Mainarea {
+	background-color: #004E74;
+	border-radius: 10px;
+	margin-top: 20px;
+	margin-left: 250px;
+	height: 700px;
+	width: 1250px;
+}
